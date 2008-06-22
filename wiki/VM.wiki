@@ -1,6 +1,3 @@
-=VM=
-
-
 Functionality pertaining to the virtual machine.
 
 ==Overview==

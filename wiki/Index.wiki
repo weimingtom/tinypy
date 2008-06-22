@@ -1,0 +1,40 @@
+=Index=
+
+
+Function index
+
+==Overview==
+||[TP_LOOP]||Macro to iterate over all remaining arguments.||
+||[tp_bool]||Check the truth value of an object||
+||[tp_call]||Calls a tinypy function.||
+||[tp_class]||Creates a new base class.||
+||[tp_compile]||Compile some tinypy code.||
+||[tp_data]||Creates a new data object.||
+||[tp_deinit]||Destroys a VM instance.||
+||[tp_del]||Remove a dictionary entry.||
+||[tp_dict]||Creates a new dictionary object.||
+||[tp_exec]||Execute VM code.||
+||[tp_fnc]||Creates a new tinypy function object.||
+||[tp_get]||Attribute lookup.||
+||[tp_getraw]||Retrieve the raw dict of a dict.||
+||[tp_has]||Checks if an object contains a key.||
+||[tp_iget]||Failsafe attribute lookup.||
+||[tp_import]||Imports a module.||
+||[tp_init]||Initializes a new virtual machine.||
+||[tp_iter]||Iterate through a list or dict.||
+||[tp_len]||Returns the length of an object.||
+||[tp_number]||Creates a new numeric object.||
+||[tp_obj]||Tinypy's object representation.||
+||[tp_object]||Creates a new object.||
+||[tp_params]||Initialize the tinypy parameters.||
+||[tp_params_n]||Specify a list of objects as function call parameters.||
+||[tp_params_v]||Pass parameters for a tinypy function call.||
+||[tp_raise]||Macro to raise an exception.||
+||[tp_set]||Attribute modification.||
+||[tp_setmeta]||Set a "dict's meta".||
+||[tp_str]||String representation of an object.||
+||[tp_string]||Creates a new string object from a C string.||
+||[tp_string_n]||Creates a new string object from a partial C string.||
+||[tp_string_slice]||Create a new string sliced from an existing string.||
+||[tp_system]||The system builtin. A grave security flaw. If your version of tinypy||
+||[tp_vm]||Representation of a tinypy virtual machine instance.||

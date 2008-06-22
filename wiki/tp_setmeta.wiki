@@ -1,0 +1,33 @@
+==tp_setmeta==
+`tp_obj tp_setmeta(TP) `
+
+
+Set a "dict's meta".
+
+
+This is a builtin function, so you need to use <tp_params> to provide the
+parameters.
+
+
+In tinypy, each dictionary can have a so-called "meta" dictionary attached
+to it. When dictionary attributes are accessed, but not present in the
+dictionary, they instead are looked up in the meta dictionary. To get the
+raw dictionary, you can use <tp_getraw>.
+
+
+This function is particulary useful for objects and classes, which are just
+special dictionaries created with <tp_object> and <tp_class>. There you can
+use tp_setmeta to change the class of the object or parent class of a class.
+
+===Parameters===
+
+
+||`self`|| The dictionary for which to set a meta.||
+||`meta`|| The meta dictionary.||
+
+
+===Returns===
+
+
+
+None

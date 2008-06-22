@@ -2,3 +2,6 @@
 
 
 Creates a new numeric object.
+
+
+[General Back to the General module.]

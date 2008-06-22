@@ -11,3 +11,6 @@ Things defined in tp.h.
 ||[tp_string]||Creates a new string object from a C string.||
 ||[tp_string_n]||Creates a new string object from a partial C string.||
 ||[tp_vm]||Representation of a tinypy virtual machine instance.||
+
+
+[Index Back to the Index.]

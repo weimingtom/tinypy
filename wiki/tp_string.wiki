@@ -13,3 +13,6 @@ it does not go out of scope, and don't de-allocate it. Also be aware that
 tinypy will not delete the string for you. In many cases, it is best to
 use [tp_string_t] or [tp_string_slice] to create a string where tinypy
 manages storage for you.
+
+
+[General Back to the General module.]

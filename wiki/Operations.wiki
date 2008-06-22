@@ -13,3 +13,6 @@ Various tinypy operations.
 ||[tp_len]||Returns the length of an object.||
 ||[tp_set]||Attribute modification.||
 ||[tp_str]||String representation of an object.||
+
+
+[Index Back to the Index.]

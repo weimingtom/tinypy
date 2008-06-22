@@ -8,3 +8,6 @@ Removes the key k from self. Also works on classes and objects.
 
 
 Note that unlike with Python, you cannot use this to remove list items.
+
+
+[Operations Back to the Operations module.]

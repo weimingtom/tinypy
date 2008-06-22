@@ -23,3 +23,6 @@ Use this to call a tinypy function.
      tp_params_v(tp, tp_string("hello")))
 This will look for a global function named "foo", then call it with a single
 positional parameter containing the string "hello".}}}
+
+
+[VM Back to the VM module.]

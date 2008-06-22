@@ -10,3 +10,6 @@ dictionaries (including classes and instantiated objects), lists and strings.
 
 As a special case, if self is a list, self[None] will return the first
 element in the list and subsequently remove it from the list.
+
+
+[Operations Back to the Operations module.]

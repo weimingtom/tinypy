@@ -5,3 +5,6 @@ String handling functions.
 
 ==Overview==
 ||[tp_string_slice]||Create a new string sliced from an existing string.||
+
+
+[Index Back to the Index.]

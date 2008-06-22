@@ -7,3 +7,6 @@ Failsafe attribute lookup.
 This is like [tp_get], except it will return false if the attribute lookup
 failed. Otherwise, it will return true, and the object will be returned
 over the reference parameter r.
+
+
+[Operations Back to the Operations module.]

@@ -9,3 +9,6 @@ Builtin tinypy functions.
 ||[tp_object]||Creates a new object.||
 ||[tp_setmeta]||Set a "dict's meta".||
 ||[tp_system]||The system builtin. A grave security flaw. If your version of tinypy||
+
+
+[Index Back to the Index.]

@@ -6,3 +6,6 @@ Creates a new tinypy function object.
 
 This is how you can create a tinypy function object which, when called in
 the script, calls the provided C function.
+
+
+[Miscellaneous Back to the Miscellaneous module.]

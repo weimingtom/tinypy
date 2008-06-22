@@ -38,3 +38,6 @@ void *__free__(TP, tp_obj self)
 
 tp_obj my_obj = tp_data(TP, 0, my_ptr);
 my_obj.data.info->free = __free__;}}}
+
+
+[Miscellaneous Back to the Miscellaneous module.]

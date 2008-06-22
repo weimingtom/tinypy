@@ -7,3 +7,6 @@ Initialize the tinypy parameters.
 When you are calling a tinypy function, you can use this to initialize the
 list of parameters getting passed to it. Usually, you may want to use
 [tp_params_n] or [tp_params_v].
+
+
+[Miscellaneous Back to the Miscellaneous module.]

@@ -6,3 +6,6 @@ Attribute modification.
 
 This is the counterpart of tp_get, it does the same as self[k] = v would do
 in actual tinypy code.
+
+
+[Operations Back to the Operations module.]

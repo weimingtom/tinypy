@@ -12,3 +12,6 @@ access the "raw" dictionary again.
 
 
 The newly created dictionary.
+
+
+[Dict Back to the Dict module.]

@@ -20,3 +20,6 @@ to it.
 
 A tinypy list object representing the current call parameters. You can modify
 the list before doing the function call.
+
+
+[Miscellaneous Back to the Miscellaneous module.]

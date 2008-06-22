@@ -5,3 +5,6 @@ Returns the length of an object.
 
 
 Returns the number of items in a list or dict, or the length of a string.
+
+
+[Operations Back to the Operations module.]

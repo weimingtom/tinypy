@@ -9,3 +9,6 @@ Creates a new object.
 
 The newly created object. The object initially has no parent class, use
 [tp_setmeta] to set a class. Also see [tp_object_new].
+
+
+[Builtins Back to the Builtins module.]

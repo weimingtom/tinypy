@@ -18,3 +18,6 @@ See also: [tp_params], [tp_params_v]
 
 
 The parameters list. You may modify it before performing the function call.
+
+
+[Miscellaneous Back to the Miscellaneous module.]

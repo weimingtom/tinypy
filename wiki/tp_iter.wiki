@@ -28,3 +28,6 @@ function len(self) times. Use [tp_get] to retrieve a specific item, and
 
 
 The first (k = 0) or next (k = 1 .. len(self)-1) item in the iteration.
+
+
+[Operations Back to the Operations module.]

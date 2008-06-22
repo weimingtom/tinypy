@@ -22,3 +22,6 @@ Every object in tinypy is of this type in the C API.
 ||`data.val`|| The user-provided data pointer.||
 ||`data.magic`|| The user-provided magic number for identifying the data type.||
 
+
+
+[General Back to the General module.]

@@ -36,3 +36,6 @@ copy of the string.
 
 
 A new string object corresponding to s[a:b] in actual tinypy code.
+
+
+[String Back to the String module.]

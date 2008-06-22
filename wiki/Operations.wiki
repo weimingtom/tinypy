@@ -1,6 +1,3 @@
-=Operations=
-
-
 Various tinypy operations.
 
 ==Overview==

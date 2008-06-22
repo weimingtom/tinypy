@@ -1,9 +1,7 @@
-=Index=
+==Modules==
+||[Builtins]||[Dict]||[General]||[Miscellaneous]||[Operations]||[String]||[VM]||
 
-
-Function index
-
-==Overview==
+==Symbol Index==
 ||[TP_LOOP]||Macro to iterate over all remaining arguments.||
 ||[tp_bool]||Check the truth value of an object||
 ||[tp_call]||Calls a tinypy function.||

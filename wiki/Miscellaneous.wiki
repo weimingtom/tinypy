@@ -1,0 +1,11 @@
+=Miscellaneous=
+
+
+Various functions to help interface tinypy.
+
+==Overview==
+||[tp_data]||Creates a new data object.||
+||[tp_fnc]||Creates a new tinypy function object.||
+||[tp_params]||Initialize the tinypy parameters.||
+||[tp_params_n]||Specify a list of objects as function call parameters.||
+||[tp_params_v]||Pass parameters for a tinypy function call.||

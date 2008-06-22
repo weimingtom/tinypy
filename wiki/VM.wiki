@@ -1,0 +1,12 @@
+=VM=
+
+
+Functionality pertaining to the virtual machine.
+
+==Overview==
+||[tp_call]||Calls a tinypy function.||
+||[tp_compile]||Compile some tinypy code.||
+||[tp_deinit]||Destroys a VM instance.||
+||[tp_exec]||Execute VM code.||
+||[tp_import]||Imports a module.||
+||[tp_init]||Initializes a new virtual machine.||

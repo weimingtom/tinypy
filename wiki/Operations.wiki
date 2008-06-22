@@ -1,0 +1,15 @@
+=Operations=
+
+
+Various tinypy operations.
+
+==Overview==
+||[tp_bool]||Check the truth value of an object||
+||[tp_del]||Remove a dictionary entry.||
+||[tp_get]||Attribute lookup.||
+||[tp_has]||Checks if an object contains a key.||
+||[tp_iget]||Failsafe attribute lookup.||
+||[tp_iter]||Iterate through a list or dict.||
+||[tp_len]||Returns the length of an object.||
+||[tp_set]||Attribute modification.||
+||[tp_str]||String representation of an object.||

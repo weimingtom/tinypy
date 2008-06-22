@@ -1,0 +1,13 @@
+=General=
+
+
+Things defined in tp.h.
+
+==Overview==
+||[TP_LOOP]||Macro to iterate over all remaining arguments.||
+||[tp_number]||Creates a new numeric object.||
+||[tp_obj]||Tinypy's object representation.||
+||[tp_raise]||Macro to raise an exception.||
+||[tp_string]||Creates a new string object from a C string.||
+||[tp_string_n]||Creates a new string object from a partial C string.||
+||[tp_vm]||Representation of a tinypy virtual machine instance.||

@@ -1,0 +1,7 @@
+=Dict=
+
+
+Functions for dealing with dictionaries.
+
+==Overview==
+||[tp_dict]||Creates a new dictionary object.||

@@ -1,0 +1,15 @@
+`tp_inline static tp_obj tp_string(char const *v) `
+
+
+Creates a new string object from a C string.
+
+
+Given a pointer to a C string, creates a tinypy object representing the
+same string.
+
+
+*Note* Only a reference to the string will be kept by tinypy, so make sure
+it does not go out of scope, and don't de-allocate it. Also be aware that
+tinypy will not delete the string for you. In many cases, it is best to
+use [tp_string_t] or [tp_string_slice] to create a string where tinypy
+manages storage for you.

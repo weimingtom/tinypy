@@ -1,6 +1,3 @@
-=Miscellaneous=
-
-
 Various functions to help interface tinypy.
 
 ==Overview==

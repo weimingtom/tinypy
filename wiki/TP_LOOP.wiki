@@ -17,7 +17,8 @@ tp_obj *my_func(tp_vm *tp)
     TP_LOOP(arg)
         // do something with arg
     TP_END
-}}}}
+}
+}}}
 
 
 [General Back to the General module.]

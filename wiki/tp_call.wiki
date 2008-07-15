@@ -22,7 +22,8 @@ Use this to call a tinypy function.
      tp_get(tp, tp->builtins, tp_string("foo")),
      tp_params_v(tp, tp_string("hello")))
 This will look for a global function named "foo", then call it with a single
-positional parameter containing the string "hello".}}}
+positional parameter containing the string "hello".
+}}}
 
 
 [VM Back to the VM module.]

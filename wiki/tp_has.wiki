@@ -4,7 +4,7 @@
 Checks if an object contains a key.
 
 
-Returns tp_True if self[k] exists, tp_False otherwise.
+Returns `tp_True` if `self[k]` exists, `tp_False` otherwise.
 
 
 [Operations Back to the Operations module.]
